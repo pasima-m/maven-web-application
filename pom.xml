@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>santander</finalName>
+		<finalName>Barclays</finalName>
 		
 		<plugins>
 			<plugin>
